@@ -16,4 +16,3 @@ O objetivo deste repositório é armazenar e organizar as atividades e exemplos 
 1. Certifique-se de ter o Java instalado em sua máquina.
 2. Compile o arquivo desejado:
    ```sh
-   javac NomeDoArquivo.java
